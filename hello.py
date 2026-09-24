@@ -1,4 +1,4 @@
-print("Assalamualaikum, Hasnain! Python is running in Termux.")
+print("learning git is powerfull.")
 
 
 
